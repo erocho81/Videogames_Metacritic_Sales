@@ -11,3 +11,4 @@ vgsales includes videogames sales from 1980 to 2015 in million units (includes s
 We can find the fields platform, year of release, genre, publishers, global sales and by region.
 
 21/02/2023- Added Power Bi visualization.
+17/03/2023- Added Py file with data study.
